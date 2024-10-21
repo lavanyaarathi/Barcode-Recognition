@@ -1,1 +1,1 @@
-# Barcode-Recognition
+# Barcode-Recognition using OpenCV and Python
